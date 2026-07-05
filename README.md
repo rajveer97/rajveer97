@@ -170,8 +170,8 @@ Tech Stack
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/rajveer97
-- LinkedIn: *(Add your LinkedIn URL)*
-- YouTube: Rajveer Pandey *(Add channel URL)*
+- LinkedIn: https://www.linkedin.com/in/rajveerpandey
+- YouTube: Rajveer Pandey https://www.youtube.com/@rajveerpandey5964
 
 ---
 
