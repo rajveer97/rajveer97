@@ -3,9 +3,7 @@
 
 <div align="center">
 
-### Software Engineer | HTML5 Slot Game Developer | TypeScript Enthusiast | Building Scalable Game Frameworks
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineer;HTML5+Slot+Game+Developer;TypeScript+%7C+PixiJS+%7C+Node.js;Building+a+Technology-Independent+Game+Framework;Always+Learning+Something+New+🚀" />
+### Software Engineer | TypeScript Enthusiast | Building Scalable Game Frameworks
 
 </div>
 
@@ -64,79 +62,6 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
----
-
-## 🎮 Current Focus
-
-```text
-✔ HTML5 Slot Games
-
-✔ PixiJS
-
-✔ TypeScript
-
-✔ Reusable Framework Architecture
-
-✔ Backend Agnostic Design
-
-✔ Renderer Agnostic Design
-
-✔ Command Pattern
-
-✔ Event Driven Systems
-
-✔ Game Optimization
-
-✔ Performance Engineering
-```
-
----
-
-## 📚 Currently Learning
-
-- Advanced System Design
-- Game Engine Architecture
-- ECS (Entity Component System)
-- WebGL Rendering
-- Design Patterns
-- Software Architecture
-- Distributed Systems
-- Golang
-
----
-
-## 🚀 Featured Projects
-
-### 🎰 HTML5 Slot Game Framework
-
-A reusable, renderer-independent, backend-independent framework for building production-ready slot games.
-
-**Features**
-
-- Renderer Agnostic
-- Backend Agnostic
-- Event Bus
-- Command Pattern
-- Asset Manager
-- Plugin System
-- Animation Engine
-- Reel Engine
-- State Machine
-- High Performance
-
----
-
-### 💻 TechTube
-
-A community-driven platform helping developers discover the best programming tutorials from YouTube.
-
-Tech Stack
-
-- React
-- Node.js
-- MongoDB
-- Express
-- TailwindCSS
 
 ---
 
