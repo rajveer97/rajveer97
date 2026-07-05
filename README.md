@@ -1,4 +1,4 @@
-````markdown
+
 # Hi there 👋, I'm Rajveer Pandey
 
 <div align="center">
@@ -182,4 +182,3 @@ Tech Stack
 *"Code. Learn. Build. Repeat."*
 
 </div>
-````
